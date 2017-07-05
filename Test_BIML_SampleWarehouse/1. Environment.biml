@@ -10,3 +10,8 @@
     <Schema Name="stg" DatabaseName="DataPatternsStaging" />
   </Schemas>
 </Biml>
+
+<#
+
+
+#>
